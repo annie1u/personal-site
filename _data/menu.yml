@@ -1,0 +1,27 @@
+entries:
+  - title: "Hello, thanks for visiting my corner of the internet! I’m Annie and I’m trying my best (˶ᵔ‿ᵔ˶)ﾉﾞ"
+    entries:
+      - title: student, software engineer, full-stack developer
+      - title: interested in networking and self-hosting lately
+
+      - title: resume
+        url: /resume.pdf
+  
+  - title: Find me elsewhere
+    entries:
+      - title: >-
+          via email, at <a href="mailto:alu87@proton.me">alu87@proton.me</a>. 
+      - title: on github
+        url: https://github.com/annie1u
+  - title: Notes
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See all...
+      show_more_url: archive.html
+  - title: Fun Stuff 
+    entries: 
+      - title: stats 
+        url: /stats
+      - title: side quests 
+        url: /side-quests
